@@ -1,0 +1,6 @@
+18:35:50 **** Incremental Build of configuration Debug for project tesproj ****
+make all 
+make: Nothing to be done for `all'.
+
+18:35:50 Build Finished (took 80ms)
+
